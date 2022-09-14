@@ -1,0 +1,1165 @@
+﻿     0>$(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       拡張パス C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild を使用して C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props をインポートしようとしています
+       プロパティの再代入: $(MSBuildProjectExtensionsPath)="C:\Users\k020c1563\source\repos\test\obj\" (以前の値: "obj\") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Microsoft.Common.props (56,5)
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       拡張パス C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild を使用して C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* をインポートしようとしています
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       "Configuration" プロパティはグローバル プロパティであり、変更できません。
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       "Configuration" プロパティはグローバル プロパティであり、変更できません。
+       プロパティの再代入: $(PlatformToolset)="v100" (以前の値: "") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Platforms\x64\Platform.Default.props (29,5)
+       "LangID" プロパティはグローバル プロパティであり、変更できません。
+       "SolutionDir" プロパティはグローバル プロパティであり、変更できません。
+       プロパティの再代入: $(UseDebugLibraries)="true" (以前の値: "false") C:\Users\k020c1563\source\repos\test\test.vcxproj (44,5)
+       プロパティの再代入: $(PlatformToolset)="v142" (以前の値: "v100") C:\Users\k020c1563\source\repos\test\test.vcxproj (45,5)
+       プロパティの再代入: $(CharacterSet)="MultiByte" (以前の値: "NotSet") C:\Users\k020c1563\source\repos\test\test.vcxproj (46,5)
+       プロパティの再代入: $(DotNetSdkRoot)="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\" (以前の値: "") C:\Program Files (x86)\Windows Kits\10\DesignTime\CommonConfiguration\Neutral\UAP\10.0.18362.0\UAP.props (8,6)
+       プロパティの再代入: $(TargetExt)=".exe" (以前の値: "") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (28,5)
+       プロパティの再代入: $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (94,5)
+       プロパティの再代入: $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (95,5)
+       プロパティの再代入: $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (96,5)
+       プロパティの再代入: $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (97,5)
+       プロパティの再代入: $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;;;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (98,5)
+       プロパティの再代入: $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;;;;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\arm\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\1041;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86\1041;;;;;;;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (99,5)
+       プロパティの再代入: $(RemoteDebuggerDeployDebugCppRuntime)="true" (以前の値: "false") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (149,5)
+       プロパティの再代入: $(MultiProcMaxCount)="0" (以前の値: "") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (203,5)
+       プロパティの再代入: $(EspXtensions)="ConcurrencyCheck.dll;CppCoreCheck.dll;" (以前の値: "CppCoreCheck.dll;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (23,5)
+       プロパティの再代入: $(MsvcAnalysisToolsPath)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Analysis.props (29,5)
+       プロパティの再代入: $(_PropertySheetDisplayName)="Multi-byte Character Support" (以前の値: "Core Windows Libraries") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.MultiByteCharSupport.props (15,5)
+       プロパティの再代入: $(_PropertySheetDisplayName)="Application" (以前の値: "Multi-byte Character Support") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Application.props (15,5)
+       "SolutionExt" プロパティはグローバル プロパティであり、変更できません。
+       プロパティの再代入: $(ExtensionsToDeleteOnClean)="*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;C:\Users\k020c1563\source\repos\test\x64\Debug\test.exe.manifest;C:\Users\k020c1563\source\repos\test\x64\Debug\test.tlb;C:\Users\k020c1563\source\repos\test\x64\Debug\test.pdb;C:\Users\k020c1563\source\repos\test\x64\Debug\test.exe;C:\Users\k020c1563\source\repos\test\x64\Debug\test.bsc;C:\Users\k020c1563\source\repos\test\x64\Debug\test.ilk;C:\Users\k020c1563\source\repos\test\x64\Debug\test.exe.intermediate.manifest;" (以前の値: "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       拡張パス C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild を使用して C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\* をインポートしようとしています
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       "Configuration" プロパティはグローバル プロパティであり、変更できません。
+       プロパティの再代入: $(_DebugSymbolsProduced)="true" (以前の値: "false") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (149,5)
+       プロパティの再代入: $(_DocumentationFileProduced)="false" (以前の値: "true") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (158,5)
+       プロパティの再代入: $(TargetDir)="C:\Users\k020c1563\source\repos\test\x64\Debug\" (以前の値: "C:\Users\k020c1563\source\repos\test\x64\Debug") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (284,5)
+       "DevEnvDir" プロパティはグローバル プロパティであり、変更できません。
+       "SolutionName" プロパティはグローバル プロパティであり、変更できません。
+       "SolutionFileName" プロパティはグローバル プロパティであり、変更できません。
+       "SolutionPath" プロパティはグローバル プロパティであり、変更できません。
+       "SolutionDir" プロパティはグローバル プロパティであり、変更できません。
+       "SolutionExt" プロパティはグローバル プロパティであり、変更できません。
+       プロパティの再代入: $(AutoUnifyAssemblyReferences)="false" (以前の値: "true") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (333,5)
+       プロパティの再代入: $(ProcessorArchitecture)="amd64" (以前の値: "x64") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (474,5)
+       プロパティの再代入: $(DelaySign)="" (以前の値: "false") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (527,5)
+       プロパティの再代入: $(_SGenGenerateSerializationAssembliesConfig)="Auto" (以前の値: "") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3487,5)
+       プロパティの再代入: $(_SGenGenerateSerializationAssembliesConfig)="Off" (以前の値: "Auto") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3488,5)
+       プロパティの再代入: $(CAExcludePath)="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (以前の値: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (263,5)
+       プロパティの再代入: $(CAExcludePath)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (以前の値: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (264,5)
+       プロパティの再代入: $(CAExcludePath)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (以前の値: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (265,5)
+       プロパティの再代入: $(PrepareForBuildDependsOn)=";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (以前の値: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (268,5)
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       プロパティの再代入: $(ResolveReferencesDependsOn)="
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           " (以前の値: "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets (75,5)
+       プロパティの再代入: $(PrepareResourceNamesDependsOn)="
+                           AssignWinFXEmbeddedResource;
+                           
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           
+             " (以前の値: "
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (97,7)
+       プロパティの再代入: $(PrepareResourcesDependsOn)="
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             " (以前の値: "
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (108,7)
+       プロパティの再代入: $(CompileDependsOn)="
+               
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ;
+               _AfterCompileWinFXInternal
+           " (以前の値: "
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (184,5)
+       プロパティの再代入: $(PublishBuildDependsOn)="
+                   BuildOnlySettings;
+                   PrepareForBuild;
+                   ResolveReferences;
+                   PrepareResources;
+                   ResolveKeySource;
+                   PrepareResourcesForSatelliteAssemblies;
+                   GenerateSerializationAssemblies;
+                   CreateSatelliteAssemblies;
+               " (以前の値: "
+             BuildOnlySettings;
+             PrepareForBuild;
+             ResolveReferences;
+             PrepareResources;
+             ResolveKeySource;
+             GenerateSerializationAssemblies;
+             CreateSatelliteAssemblies;
+           ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (813,9)
+       プロパティの再代入: $(BuildDependsOn)="
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           " (以前の値: "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (35,5)
+       プロパティの再代入: $(CleanDependsOn)="
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           " (以前の値: "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (42,5)
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       プロパティの再代入: $(PrepareResourcesDependsOn)="
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           " (以前の値: "
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+       プロパティの再代入: $(CoreCompileDependsOn)="
+               DesignTimeXamlMarkupCompilation;
+               
+                 DesignTimeMarkupCompilation;
+                 
+             
+           " (以前の値: "
+                 DesignTimeMarkupCompilation;
+                 
+             ") C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (76,5)
+       プロパティの再代入: $(ResolveReferencesDependsOn)="
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           " (以前の値: "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+       プロパティの再代入: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets" (以前の値: ";C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Xaml.targets") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets (45,5)
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       拡張パス C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild を使用して C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* をインポートしようとしています
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       拡張パス C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild を使用して C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Sdks\Microsoft.Docker.Sdk\build\Microsoft.Docker.targets をインポートしようとしています
+       プロパティの再代入: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets" (以前の値: ";C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (67,5)
+       プロパティの再代入: $(ResolveAssemblyReferencesDependsOn)="
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (以前の値: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (173,5)
+       プロパティの再代入: $(PrepareResourcesDependsOn)="ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           " (以前の値: "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (174,5)
+       プロパティの再代入: $(_HandlePackageFileConflictsAfter)="ResolveNuGetPackageAssets;ResolveNuGetPackageAssetsNonAOT" (以前の値: "ResolveNuGetPackageAssets") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (255,5)
+       $(MSBuildExtensionsPath) で使用されている検索パスは C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild です
+       プロパティの再代入: $(BuildDependsOn)="
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           " (以前の値: "
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (96,5)
+       プロパティの再代入: $(RebuildDependsOn)="
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (以前の値: "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (104,5)
+       プロパティの再代入: $(CleanDependsOn)="
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           " (以前の値: "
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (109,5)
+       プロパティの再代入: $(BeforeBuildGenerateSourcesTargets)="
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           " (以前の値: "
+             ;
+             BeforeBuildGenerateSources;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (60,5)
+       プロパティの再代入: $(AfterBuildGenerateSourcesTargets)="
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           " (以前の値: "
+             ;
+             AfterBuildGenerateSources;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (71,5)
+       プロパティの再代入: $(BuildGenerateSourcesAction)="_BuildGenerateSourcesAction" (以前の値: "Build") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (130,5)
+       プロパティの再代入: $(BuildCompileAction)="_BuildCompileAction" (以前の値: "Build") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (131,5)
+       プロパティの再代入: $(BuildLinkAction)="_BuildLinkAction" (以前の値: "Build") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (132,5)
+       プロパティの再代入: $(GetReferenceAssemblyPathsDependsOn)="_PrepareForReferenceResolution;
+               ;
+               GetWinFXPath
+           " (以前の値: "
+               ;
+               GetWinFXPath
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (137,5)
+       プロパティの再代入: $(ResolveReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           " (以前の値: "
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (275,5)
+       プロパティの再代入: $(ResolveAssemblyReferencesDependsOn)="_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (以前の値: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (276,5)
+       プロパティの再代入: $(ResolveSDKReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           " (以前の値: "
+             GetInstalledSDKLocations
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (277,5)
+       プロパティの再代入: $(ComputeCompileInputsTargets)="
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           " (以前の値: "
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (570,5)
+       プロパティの再代入: $(ComputeLinkInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           " (以前の値: "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (879,5)
+       プロパティの再代入: $(GetTargetPathDependsOn)="_PrepareForReferenceResolution;GetResolvedWinMD;" (以前の値: "") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1010,5)
+       プロパティの再代入: $(ComputeCompileInputsTargets)="
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           " (以前の値: "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1036,5)
+       プロパティの再代入: $(ComputeLinkInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (以前の値: "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1088,5)
+       プロパティの再代入: $(ComputeLibInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (以前の値: "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1095,5)
+       プロパティの再代入: $(ComputeImpLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (以前の値: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1102,5)
+       プロパティの再代入: $(ComputeLinkInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           " (以前の値: "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1162,5)
+       プロパティの再代入: $(ComputeLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           " (以前の値: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1177,5)
+       プロパティの再代入: $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           " (以前の値: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1192,5)
+       プロパティの再代入: $(ComputeLinkInputsTargets)="
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             " (以前の値: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1223,7)
+       プロパティの再代入: $(ComputeLibInputsTargets)="
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             " (以前の値: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1241,7)
+       プロパティの再代入: $(ComputeImpLibInputsTargets)="
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+               ComputeImpLibInputsFromProject;
+             " (以前の値: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1259,7)
+       プロパティの再代入: $(ComputeLinkInputsTargets)="
+             
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             ;
+             ComputeReferenceLinkInputs;
+           " (以前の値: "
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1402,5)
+       プロパティの再代入: $(ComputeLibInputsTargets)="
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           " (以前の値: "
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1440,5)
+       プロパティの再代入: $(ComputeLibInputsTargets)="
+             ComputeLibAdditionalOptions;
+             
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           
+           " (以前の値: "
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1497,5)
+       プロパティの再代入: $(DocumentationProjectOutputGroupDependsOn)="ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles" (以前の値: "") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1920,5)
+       プロパティの再代入: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc" (以前の値: "PrepareForBuild;AssignTargetPaths") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1986,5)
+       プロパティの再代入: $(CustomBuildToolBeforeTargets)="" (以前の値: "Midl") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (170,5)
+       プロパティの再代入: $(CustomBuildToolAfterTargets)="" (以前の値: "PreBuildEvent") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (171,5)
+       プロパティの再代入: $(CustomBuildBeforeTargets)="" (以前の値: "PostBuildEvent") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (172,5)
+       プロパティの再代入: $(CustomBuildAfterTargets)="" (以前の値: "BscMake") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (173,5)
+       プロパティの再代入: $(ComputeCompileInputsTargets)="
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             FixupCLCompileOptions;
+           " (以前の値: "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (288,5)
+       プロパティの再代入: $(BuildingProject)="true" (以前の値: "false") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (1733,5)
+       プロパティの再代入: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;" (以前の値: "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (2242,5)
+       プロパティの再代入: $(PrepareForBuildDependsOn)="_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (以前の値: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets (16,5)
+       プロパティの再代入: $(CleanDependsOn)="
+             
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ;
+             CppClean
+           " (以前の値: "
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (22,5)
+       プロパティの再代入: $(CppCleanDependsOn)="
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean" (以前の値: "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (91,5)
+       プロパティの再代入: $(BuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           " (以前の値: "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (477,5)
+       プロパティの再代入: $(RebuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (以前の値: "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ") C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (478,5)
+       プロパティの再代入: $(MSBuildAllProjects)="C:\Users\k020c1563\source\repos\test\test.vcxproj;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets" (以前の値: ";C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets") 
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "GetFrameworkPaths" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets" からのターゲット "GetFrameworkPaths" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "SatelliteDllsProjectOutputGroup" をプロジェクト "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets" からのターゲット "SatelliteDllsProjectOutputGroup" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "GenerateTargetFrameworkMonikerAttribute" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" からのターゲット "GenerateTargetFrameworkMonikerAttribute" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "Build" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" からのターゲット "Build" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "Rebuild" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" からのターゲット "Rebuild" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "AfterBuild" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" からのターゲット "AfterBuild" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "PrepareForBuild" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "PrepareForBuild" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "GetTargetPath" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "GetTargetPath" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "ComputeIntermediateSatelliteAssemblies" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "ComputeIntermediateSatelliteAssemblies" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "ClCompile" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "ClCompile" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "ResourceCompile" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "ResourceCompile" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "Lib" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "Lib" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "Link" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "Link" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "AllProjectOutputGroups" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "AllProjectOutputGroups" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "BuiltProjectOutputGroup" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "BuiltProjectOutputGroup" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "DebugSymbolsProjectOutputGroup" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "DebugSymbolsProjectOutputGroup" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "DocumentationProjectOutputGroup" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "DocumentationProjectOutputGroup" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "SourceFilesProjectOutputGroup" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "SourceFilesProjectOutputGroup" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "ContentFilesProjectOutputGroup" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "ContentFilesProjectOutputGroup" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "AllProjectOutputGroupsDependencies" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "AllProjectOutputGroupsDependencies" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "BuiltProjectOutputGroupDependencies" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "BuiltProjectOutputGroupDependencies" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "DebugSymbolsProjectOutputGroupDependencies" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "DebugSymbolsProjectOutputGroupDependencies" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "DocumentationProjectOutputGroupDependencies" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" からのターゲット "DocumentationProjectOutputGroupDependencies" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "PreBuildEvent" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "PreBuildEvent" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "PostBuildEvent" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "PostBuildEvent" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "ClCompile" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "ClCompile" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "Link" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "Link" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "Lib" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "Lib" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "ImpLib" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "ImpLib" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "Midl" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "Midl" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "ResourceCompile" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "ResourceCompile" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "BeforeResGen" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "BeforeResGen" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "ResGen" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "ResGen" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "GenerateSatelliteAssemblies" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "GenerateSatelliteAssemblies" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "Manifest" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "Manifest" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "XdcMake" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "XdcMake" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" のターゲット "BscMake" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "BscMake" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets" のターゲット "ComputeMetaGenInputs" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "ComputeMetaGenInputs" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "GetNativeManifest" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" からのターゲット "GetNativeManifest" でオーバーライドしています。
+       プロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" のターゲット "GetTargetPathWithTargetPlatformMoniker" をプロジェクト "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets" からのターゲット "GetTargetPathWithTargetPlatformMoniker" でオーバーライドしています。
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (59,12)" にある BeforeTargets 属性に一覧表示されているターゲット "CoreCompile" はプロジェクト内に存在しないため、無視されます。
+2022/01/27 9:35:45 にビルドを開始しました。
+ログの詳細度は次のように設定されています: Detailed。     1>ノード 2 上のプロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" (ClCompile ターゲット)。
+     1>ツール バージョン "Current" でビルドしています。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "SetBuildDefaultEnvironmentVariables" (ターゲット "PrepareForBuild" は依存):
+       "SetEnv" タスクをアセンブリ "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" から使用しています。
+       タスク "SetEnv"
+         PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Java\jdk-16.0.1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\Brackets\command;C:\Users\k020c1563\AppData\Local\Android\Sdk\platform-tools;C:\Users\k020c1563\AppData\Local\Microsoft\WindowsApps;;C:\Users\k020c1563\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\k020c1563\AppData\Local\Programs\Fiddler;
+       タスク "SetEnv" の実行が終了しました。
+       タスク "SetEnv"
+         LIB=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;
+       タスク "SetEnv" の実行が終了しました。
+       タスク "SetEnv"
+         LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\lib\x64;
+       タスク "SetEnv" の実行が終了しました。
+       タスク "SetEnv"
+         INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       タスク "SetEnv" の実行が終了しました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "SetBuildDefaultEnvironmentVariables" のビルドが終了しました。
+       false 条件により、ターゲット "SetUserMacroEnvironmentVariables" を省略しました。('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') は ('' != '' and '' != 'true') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "_PrepareForReferenceResolution" (ターゲット "PrepareForBuild" は依存):
+       false 条件のため、タスク "Message" を省略しました。('$(_REFERENCE_DEBUG)'=='true') は (''=='true') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "_PrepareForReferenceResolution" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "GetResolvedWinMD" (ターゲット "PrepareForBuild" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "GetResolvedWinMD" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "_CheckWindowsSDKInstalled" (ターゲット "PrepareForBuild" は依存):
+       false 条件のため、タスク "VCMessage" を省略しました。('$(WindowsSDKInstalled)' != 'true') は ('true' != 'true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true) は ('false' != 'true' and 'true' != true) として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "_CheckWindowsSDKInstalled" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "GetFrameworkPaths" (ターゲット "PrepareForBuild" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "GetFrameworkPaths" のビルドが終了しました。
+       ターゲット "_PrepareForReferenceResolution" を省略しました。以前に正しくビルドされていました。
+       false 条件により、ターゲット "GetWinFXPath" を省略しました。(('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) は (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )) として評価されました。
+       ターゲット "GetFrameworkPaths" を省略しました。以前に正しくビルドされていました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "GetReferenceAssemblyPaths" (ターゲット "PrepareForBuild" は依存):
+       false 条件のため、タスク "GetReferenceAssemblyPaths" を省略しました。('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) は ('' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '')) として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "GetReferenceAssemblyPaths" のビルドが終了しました。
+       false 条件により、ターゲット "AssignLinkMetadata" を省略しました。( '$(SynthesizeLinkMetadata)' == 'true' ) は ( '' == 'true' ) として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "SetCABuildNativeEnvironmentVariables" (ターゲット "PrepareForBuild" は依存):
+       タスク "SetEnv"
+         CAExcludePath=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       タスク "SetEnv" の実行が終了しました。
+       false 条件のため、タスク "SetEnv" を省略しました。('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true') は ('false'=='true' and 'true'=='true') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "SetCABuildNativeEnvironmentVariables" のビルドが終了しました。
+       false 条件により、ターゲット "EnableIntermediateOutputPathMismatchWarning" を省略しました。('$(RestoreProjectStyle)' == 'PackageReference') は ('' == 'PackageReference') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "_CheckForInvalidConfigurationAndPlatform" (ターゲット "PrepareForBuild" は依存):
+       false 条件のため、タスク "Error" を省略しました。( '$(_InvalidConfigurationError)' == 'true' ) は ( '' == 'true' ) として評価されました。
+       false 条件のため、タスク "Warning" を省略しました。( '$(_InvalidConfigurationWarning)' == 'true' ) は ( '' == 'true' ) として評価されました。
+       "Message" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "Message"
+         Configuration=Debug
+       タスク "Message" の実行が終了しました。
+       タスク "Message"
+         Platform=x64
+       タスク "Message" の実行が終了しました。
+       false 条件のため、タスク "Error" を省略しました。('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) は ('C:\Users\k020c1563\source\repos\test\x64\Debug\' != '' and !HasTrailingSlash('C:\Users\k020c1563\source\repos\test\x64\Debug\')) として評価されました。
+       false 条件のため、タスク "Error" を省略しました。('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) は ('obj\' != '' and !HasTrailingSlash('obj\')) として評価されました。
+       false 条件のため、タスク "Error" を省略しました。('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) は ('x64\Debug\' != '' and !HasTrailingSlash('x64\Debug\')) として評価されました。
+       false 条件のため、タスク "Error" を省略しました。( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) は ( 'C:\Users\k020c1563\source\repos\test\obj\' != '' And 'C:\Users\k020c1563\source\repos\test\obj\' != 'C:\Users\k020c1563\source\repos\test\obj\' ) として評価されました。
+       false 条件のため、タスク "Warning" を省略しました。( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) は ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'C:\Users\k020c1563\source\repos\test\obj\' ) として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "_CheckForInvalidConfigurationAndPlatform" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "PrepareForBuild" (ターゲット "_SelectedFiles" は依存):
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true') は ('' != 'true' and 'true' != 'true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') は ('' != 'true' and 'true' != 'true') として評価されました。
+       "MakeDir" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "MakeDir"
+       タスク "MakeDir" の実行が終了しました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary') は (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' )) は (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\'=='' and '' != 'true' and ('v4.0'=='v3.5' or 'v4.0'=='v3.0' or 'v4.0'=='v2.0' )) として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') は (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\'=='' and '' != 'true' and 'v142'=='v90') として評価されました。
+       "CheckVCToolsetVersion" タスクをアセンブリ "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" から使用しています。
+       タスク "CheckVCToolsetVersion"
+       タスク "CheckVCToolsetVersion" の実行が終了しました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '') は ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\lib\x64\mfcs140.lib) and '' == '') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '') は ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\lib\x64\mfcs140.lib) and '' != '') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '') は ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\lib\x64\atls.lib) and '' == '') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '') は ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\lib\x64\atls.lib) and '' != '') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)' != 'false' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(_VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_x86_OneCore_spectre)')) or
+                                                                ('$(_VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_x86_Desktop_spectre)')))) は ('' != 'true' and
+                                                               '' != 'false' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\lib\spectre\onecore\x86')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\lib\spectre\x86')))) として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(EnableASAN)' == 'true' and '$(LlvmPlatformName)' == '') は (''!='true' and 'false' == 'true' and '' == '') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(ApplicationType)'!='Linux' and '$(EnableASAN)' == 'true' and '$(UseDebugLibraries)'=='true') は (''!='true' and ''!='Linux' and 'false' == 'true' and 'true'=='true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true') は (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\'=='' and '' != 'true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') は (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true') は (''!='true' and ''=='true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true') は (''!='true' and ''=='true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true') は ('' != '' and ''!='true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true') は ('' != 'true' and '' == 'true') として評価されました。
+       false 条件のため、タスク "VCMessage" を省略しました。('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(_IntDirFullpath.StartsWith($(Tmp), true, null))' == 'true' or '$(_IntDirFullpath.StartsWith($(Temp), true, null))' == 'true' or '$(_OutDirFullpath.StartsWith($(Tmp), true, null))' == 'true' or '$(_OutDirFullpath.StartsWith($(Temp), true, null))' == 'true')) は (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true')) として評価されました。
+       タスク "MakeDir"
+       タスク "MakeDir" の実行が終了しました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "PrepareForBuild" のビルドが終了しました。
+       ターゲット "PrepareForBuild" を省略しました。以前に正しくビルドされていました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "InitializeBuildStatus" (ターゲット "_SelectedFiles" は依存):
+       "ReadLinesFromFile" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "ReadLinesFromFile"
+       タスク "ReadLinesFromFile" の実行が終了しました。
+       "WriteLinesToFile" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "WriteLinesToFile"
+       タスク "WriteLinesToFile" の実行が終了しました。
+       "Touch" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "Touch"
+         "AlwaysCreate" が指定されたため "x64\Debug\test.tlog\unsuccessfulbuild" を作成しています。
+       タスク "Touch" の実行が終了しました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "InitializeBuildStatus" のビルドが終了しました。
+       ターゲット "SetBuildDefaultEnvironmentVariables" を省略しました。以前に正しくビルドされていました。
+       false 条件により、ターゲット "SetUserMacroEnvironmentVariables" を省略しました。('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') は ('' != '' and '' != 'true') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "_SelectedFiles" (ターゲット "SelectClCompile" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "_SelectedFiles" のビルドが終了しました。
+       false 条件により、ターゲット "GenerateTargetFrameworkMonikerAttribute" を省略しました。('$(GenerateTargetFrameworkAttribute)' == 'true') は ('false' == 'true') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ComputeMIDLGeneratedCompileInputs" (ターゲット "SelectClCompile" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "ComputeMIDLGeneratedCompileInputs" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ComputeCLInputPDBName" (ターゲット "SelectClCompile" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "ComputeCLInputPDBName" のビルドが終了しました。
+       ターゲット "_PrepareForReferenceResolution" を省略しました。以前に正しくビルドされていました。
+       false 条件により、ターゲット "ComputeCrtSDKReference" を省略しました。('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') は ('DrawPixel.cpp'!='' and 'false'=='true' and '' != 'false') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "BeforeResolveReferences" (ターゲット "ResolveReferences" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "BeforeResolveReferences" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "AssignProjectConfiguration" (ターゲット "ResolveReferences" は依存):
+       "AssignProjectConfiguration" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "AssignProjectConfiguration"
+       タスク "AssignProjectConfiguration" の実行が終了しました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "AssignProjectConfiguration" のビルドが終了しました。
+       ターゲット "AssignProjectConfiguration" を省略しました。以前に正しくビルドされていました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "_SplitProjectReferencesByFileExistence" (ターゲット "PrepareProjectReferences" は依存):
+       false 条件のため、タスク "ResolveNonMSBuildProjectOutput" を省略しました。('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') は ('true'=='true' and ''!='') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "_SplitProjectReferencesByFileExistence" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "_GetProjectReferenceTargetFrameworkProperties" (ターゲット "PrepareProjectReferences" は依存):
+       "MSBuild" タスクをアセンブリ "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" から使用しています。
+       タスク "MSBuild"
+       タスク "MSBuild" の実行が終了しました。
+       false 条件のため、タスク "GetReferenceNearestTargetFrameworkTask" を省略しました。('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != '') は ('0' != '0' and '.NETFramework,Version=v4.0' != '') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "_GetProjectReferenceTargetFrameworkProperties" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "PrepareProjectReferences" (ターゲット "ResolveProjectReferences" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "PrepareProjectReferences" のビルドが終了しました。
+       false 条件により、ターゲット "_RemoveNameMetadataFromProjectReferenceItems" を省略しました。('@(ProjectReference)'!='') は (''!='') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ResolveProjectReferences" (ターゲット "ResolveReferences" は依存):
+       false 条件のため、タスク "MSBuild" を省略しました。('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') は ('' == 'true' and '' != '' and ('true' == 'true' or 'false' != 'true') and '16.0' != '10.0' and '' != '') として評価されました。
+       false 条件のため、タスク "MSBuild" を省略しました。('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') は ('' == 'true' and '' != '' and 'true' != 'true' and 'false' == 'true' and '' != '') として評価されました。
+       false 条件のため、タスク "MSBuild" を省略しました。('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') は ('' == 'true' and '' != '' and 'true' == 'true' and '' != '') として評価されました。
+       false 条件のため、タスク "Warning" を省略しました。('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') は ('' != '' and '' != '') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "ResolveProjectReferences" のビルドが終了しました。
+       false 条件により、ターゲット "FindInvalidProjectReferences" を省略しました。('$(FindInvalidProjectReferences)' == 'true') は ('' == 'true') として評価されました。
+       false 条件により、ターゲット "ResolveNativeReferences" を省略しました。('@(NativeReference)'!='') は (''!='') として評価されました。
+       ターゲット "_PrepareForReferenceResolution" を省略しました。以前に正しくビルドされていました。
+       ターゲット "ResolveProjectReferences" を省略しました。以前に正しくビルドされていました。
+       false 条件により、ターゲット "FindInvalidProjectReferences" を省略しました。('$(FindInvalidProjectReferences)' == 'true') は ('' == 'true') として評価されました。
+       ターゲット "GetFrameworkPaths" を省略しました。以前に正しくビルドされていました。
+       ターゲット "GetReferenceAssemblyPaths" を省略しました。以前に正しくビルドされていました。
+       ターゲット "PrepareForBuild" を省略しました。以前に正しくビルドされていました。
+       ターゲット "_PrepareForReferenceResolution" を省略しました。以前に正しくビルドされていました。
+       false 条件により、ターゲット "ComputeCrtSDKReference" を省略しました。('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') は ('DrawPixel.cpp'!='' and 'false'=='true' and '' != 'false') として評価されました。
+       false 条件により、ターゲット "GetInstalledSDKLocations" を省略しました。('@(SDKReference)' != '') は ('' != '') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ResolveSDKReferences" (ターゲット "ResolveAssemblyReferences" は依存):
+       false 条件のため、タスク "ResolveSDKReference" を省略しました。('@(SDKReference)'!='') は (''!='') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "ResolveSDKReferences" のビルドが終了しました。
+       ターゲット "ResolveSDKReferences" を省略しました。以前に正しくビルドされていました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ExpandSDKReferences" (ターゲット "ResolveAssemblyReferences" は依存):
+       false 条件のため、タスク "GetSDKReferenceFiles" を省略しました。('@(ResolvedSDKReference)'!='') は (''!='') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "ExpandSDKReferences" のビルドが終了しました。
+       false 条件により、ターゲット "ResolveNuGetPackageAssets" を省略しました。('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)')) は ('true' == 'true' and exists('obj\project.assets.json')) として評価されました。
+       false 条件により、ターゲット "ImplicitlyExpandNETStandardFacades" を省略しました。('$(ImplicitlyExpandNETStandardFacades)' == 'true') は ('' == 'true') として評価されました。
+       false 条件により、ターゲット "_HandlePackageFileConflicts" を省略しました。('@(Reference)' != '' Or '@(ReferenceCopyLocalPaths)' != '') は ('' != '' Or '' != '') として評価されました。
+       false 条件により、ターゲット "ImplicitlyExpandNETStandardFacades" を省略しました。('$(ImplicitlyExpandNETStandardFacades)' == 'true') は ('' == 'true') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ResolveAssemblyReferences" (ターゲット "ResolveReferences" は依存):
+       false 条件のため、タスク "ResolveAssemblyReference" を省略しました。('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '') は (''!='' or ''!='' or '' != '') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "ResolveAssemblyReferences" のビルドが終了しました。
+       false 条件により、ターゲット "GenerateBindingRedirects" を省略しました。('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true') は ('' == 'true' and 'true' == 'true') として評価されました。
+       false 条件により、ターゲット "_RemoveZipFileSuggestedRedirect" を省略しました。('$(_TargetFrameworkVersionWithoutV)' >= '4.7.1' And '$(AllowZipFileRedirect)' != 'true') は ('4.0' >= '4.7.1' And '' != 'true') として評価されました。
+       false 条件により、ターゲット "GenerateBindingRedirectsUpdateAppConfig" を省略しました。('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)')) は ('' == 'true' and 'true' == 'true' and Exists('x64\Debug\test.exe.config')) として評価されました。
+       false 条件により、ターゲット "ResolveComReferences" を省略しました。('@(COMReference)'!='' or '@(COMFileReference)'!='') は (''!='' or ''!='') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "AfterResolveReferences" (ターゲット "ResolveReferences" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "AfterResolveReferences" のビルドが終了しました。
+       false 条件により、ターゲット "ImplicitlyExpandDesignTimeFacades" を省略しました。('$(ImplicitlyExpandDesignTimeFacades)' == 'true') は ('' == 'true') として評価されました。
+       false 条件により、ターゲット "ResolveTestReferences" を省略しました。('@(Shadow)'!='') は (''!='') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ResolveReferences" (ターゲット "FindReferenceAssembliesForReferences" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "ResolveReferences" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "FindReferenceAssembliesForReferences" (ターゲット "ComputeReferenceCLInput" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "FindReferenceAssembliesForReferences" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ComputeReferenceCLInput" (ターゲット "SelectClCompile" は依存):
+       false 条件のため、タスク "WriteLinesToFile" を省略しました。('@(_ReferenceCopyLocalPaths)'!='' and '$(DesignTimeBuild)' != 'true') は (''!='' and '' != 'true') として評価されました。
+       false 条件のため、タスク "WriteLinesToFile" を省略しました。('@(ReferenceCopyLocalPaths)'!='' and '$(DesignTimeBuild)' != 'true') は (''!='' and '' != 'true') として評価されました。
+       false 条件のため、タスク "Message" を省略しました。('$(_REFERENCE_DEBUG)'=='true') は (''=='true') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "ComputeReferenceCLInput" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "WarnCompileDuplicatedFilename" (ターゲット "SelectClCompile" は依存):
+       false 条件のため、タスク "VCMessage" を省略しました。('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') は ('' != 'true' and 'DrawPixel.cpp' != 'DrawPixel.cpp' and 'x64\Debug\' == 'x64\Debug\') として評価されました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "WarnCompileDuplicatedFilename" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "FixupCLCompileOptions" (ターゲット "SelectClCompile" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "FixupCLCompileOptions" のビルドが終了しました。
+       ターゲット "_SelectedFiles" を省略しました。以前に正しくビルドされていました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "SelectCustomBuild" (ターゲット "SelectClCompile" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "SelectCustomBuild" のビルドが終了しました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "SelectClCompile" (ターゲット "ClCompile" は依存):
+     1>プロジェクト "test.vcxproj" 内のターゲット "SelectClCompile" のビルドが終了しました。
+       false 条件により、ターゲット "ManagedIncrementalBuildPreProcessDependencyGraph" を省略しました。('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') は ('DrawPixel.cpp' != '' and 'false' == 'True') として評価されました。
+     1>ファイル "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 内にある、プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" からのターゲット "ClCompile" (エントリ ポイント):
+       false 条件のため、タスク "Delete" を省略しました。('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'None' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName))) は ('EditAndContinue' != '' and 'EditAndContinue' != 'None' and 'EditAndContinue' != 'OldStyle' and 'x64\Debug\vc142.pdb' != '' and !Exists(x64\Debug\vc142.pdb)) として評価されました。
+       false 条件のため、タスク "MultiToolTask" を省略しました。('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true') は ('' != 'true' and '' == '' and 'false' == 'true') として評価されました。
+       false 条件のため、タスク "CL" を省略しました。('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true') は ('NotUsing' == 'Create' and ''!='true' and '' == '' and 'false' != 'true') として評価されました。
+       "CL" タスクをアセンブリ "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" から使用しています。
+       タスク "CL"
+         ツールに渡された環境変数:
+           VS_UNICODE_OUTPUT=1316
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64\CL.exe /c /I"C:\Users\k020c1563\Desktop\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt DrawPixel.cpp
+         トラッキング コマンド:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i C:\Users\k020c1563\source\repos\test\x64\Debug\test.tlog /r C:\USERS\K020C1563\SOURCE\REPOS\TEST\DRAWPIXEL.CPP /b MSBuildConsole_CancelEvent5f0f3b15c3834ddc800bb5f8ab07afa2  /c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\bin\HostX86\x64\CL.exe"  /c /I"C:\Users\k020c1563\Desktop\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt DrawPixel.cpp
+         DrawPixel.cpp
+       タスク "CL" の実行が終了しました。
+     1>プロジェクト "test.vcxproj" 内のターゲット "ClCompile" のビルドが終了しました。
+       false 条件により、ターゲット "RunSelectedFileNativeCodeAnalysis" を省略しました。('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') は ('false'=='true' and 'DrawPixel.cpp'!='') として評価されました。
+       false 条件により、ターゲット "ManagedIncrementalBuildPostProcessDependencyGraph" を省略しました。('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') は ('DrawPixel.cpp' != '' and 'false' == 'True') として評価されました。
+       false 条件により、ターゲット "NoAnalysisToolEnabledWarning" を省略しました。('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='false' AND '$(EnableClangTidyCodeAnalysis)'=='false') は ('false'=='true' AND 'true'=='false' AND 'false'=='false') として評価されました。
+       false 条件により、ターゲット "RunSelectedFileClangTidy" を省略しました。('$(RunClangCppAnalysis)'=='true' AND '$(SelectedFiles)'!='') は ('false'=='true' AND 'DrawPixel.cpp'!='') として評価されました。
+       false 条件により、ターゲット "MicrosoftAnalysisIncompatiableWithClangCl" を省略しました。('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='true' AND '$(UseClangCl)'=='true') は ('false'=='true' AND 'true'=='true' AND ''=='true') として評価されました。
+     1>プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" (ClCompile ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.91

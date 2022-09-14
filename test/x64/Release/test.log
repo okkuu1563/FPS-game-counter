@@ -1,0 +1,28 @@
+﻿2022/02/15 12:22:48 にビルドを開始しました。
+ログの詳細度は次のように設定されています: Normal。     1>ノード 2 上のプロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" (Rebuild ターゲット)。
+     1>_PrepareForClean:
+         ファイル "x64\Release\test.tlog\test.lastbuildstate" を削除しています。
+       CoreClean:
+         ファイル "C:\Users\k020c1563\source\repos\test\x64\Release\test.exe" を削除しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "x64\Release\test.tlog\unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\CL.exe /c /I"C:\Users\k020c1563\Desktop\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /GL /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc142.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt DrawPixel.cpp
+         DrawPixel.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\k020c1563\source\repos\test\x64\Release\test.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\k020c1563\Desktop\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\k020c1563\source\repos\test\x64\Release\test.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\test.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\k020c1563\source\repos\test\x64\Release\test.lib" /MACHINE:X64 x64\Release\DrawPixel.obj
+         コード生成しています。
+         Previous IPDB not found, fall back to full compilation.
+         All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         コード生成が終了しました。
+         test.vcxproj -> C:\Users\k020c1563\source\repos\test\x64\Release\test.exe
+       FinalizeBuildStatus:
+         ファイル "x64\Release\test.tlog\unsuccessfulbuild" を削除しています。
+         "x64\Release\test.tlog\test.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\k020c1563\source\repos\test\test.vcxproj" (Rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:02.15
